@@ -1,0 +1,5 @@
+telethon
+opencv-python
+pytesseract
+selenium
+python-dotenv

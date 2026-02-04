@@ -1,0 +1,26 @@
+__pycache__
+images
+GEMINI.md
+debug_crop.jpg
+*.session
+*.session-journal
+
+# Security & Credentials
+.env
+google_cookies.pkl
+*.pkl
+
+# Chrome & Selenium
+chrome_profile/
+chrome_profiles/
+chromedriver.exe
+geckodriver.exe
+
+# Output Data
+data/codes.txt
+data/
+
+# Python Environments
+.venv/
+venv/
+env/
